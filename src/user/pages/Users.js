@@ -8,8 +8,8 @@ const Users = () => {
       {
         id: 'u1',
         name: 'Muhammad Muhdar',
-        image: 'https://images.pexels.com/photos/3551207/pexels-photo-3551207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
-        places: 3
+        image: 'https://images.pexels.com/photos/3497181/pexels-photo-3497181.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+        places: 1
       }
     ];  
 
